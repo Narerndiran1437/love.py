@@ -1,0 +1,2 @@
+# love.py
+python
